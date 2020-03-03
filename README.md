@@ -1,0 +1,2 @@
+# IntelEdgeAI
+Using Intel OpenVino
